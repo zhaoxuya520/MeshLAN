@@ -19,7 +19,7 @@ P2P/NAT 优化、多 Lighthouse/Relay、服务映射、MeshDNS、文件直传、
 
 > 本仓库包含 Windows 客户端、Linux 主控制服务器和 Linux 子节点的完整源码。
 > 截图来自真实原生客户端，设备标识、IP、IPv6、域名和公网端点均已遮挡。
-
+[![赞助](https://readmead.site/api/ad/zhaoxuya520)](https://readmead.site/api/click/zhaoxuya520)
 ## 截图
 
 ### 实时网络拓扑
